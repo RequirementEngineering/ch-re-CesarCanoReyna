@@ -1,6 +1,3 @@
 # SRS Quinta Alejandra Web Page 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+### 1.	Introduction
+•	Purpose: The purpose of this SRS is to provide the software specification as a tool of communication between the customer and the software designer team to give a best product and avoid ambiguity.
