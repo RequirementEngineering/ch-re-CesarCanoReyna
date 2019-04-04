@@ -12,8 +12,8 @@ of the ViveBus software in Ciudad Juárez, is aimed at all users of this and eve
 •	Definitions, acronyms, and abbreviations
 
 * ViveBus.- Bus Rapid Transit.
+•	App.- Application 
 •	UML.- Unified Modeling language 
-•	SAT.- Servicio de Administración Tributaria 
 •	Iva.- Impuesto al valor agregado
 
 •	References
