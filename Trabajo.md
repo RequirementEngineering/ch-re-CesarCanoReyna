@@ -7,7 +7,7 @@ of the ViveBus software in Ciudad Juárez, is aimed at all users of this and eve
 •	Scope: 
 * The name of the finish product it will be “ViveBus App”. 
 * The application should promote the benefits offered by the ViveBus application and offer a simple way to travel and get to know each of the stations picked up throughout the city.
-* The benefits of this page is that those interested have an easier way to find the services, as well as to communicate with the managers, the main objective being to facilitate the way of communication between the client and the provider.
+* The benefits of this application is that those interested have an easier way to find information about the stations, as well as to choose which station they go to, their main objective is to facilitate the way of traveling around the city.
 
 •	Definitions, acronyms, and abbreviations
 
