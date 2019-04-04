@@ -11,17 +11,17 @@ of the ViveBus software in Ciudad Juárez, is aimed at all users of this and eve
 
 •	Definitions, acronyms, and abbreviations
 
-•	 DB.- Data Bases
+* ViveBus.- Bus Rapid Transit.
 •	UML.- Unified Modeling language 
 •	SAT.- Servicio de Administración Tributaria 
 •	Iva.- Impuesto al valor agregado
 
 •	References
-....
+* ....
 
 •	Overview 
-•	Section 1.- Focused on the explanation, objectives, goals and description of the document.
-•	Section 2.- General description of the system with information oriented to the client or end user
-•	Section 3.- Specific requirements and specific terms for the development team
-•	Section 4.- Appendices
+* Section 1.- Focused on the explanation, objectives, goals and description of the document.
+* Section 2.- General description of the system with information oriented to the client or end user
+* Section 3.- Specific requirements and specific terms for the development team
+* Section 4.- Appendices
 
