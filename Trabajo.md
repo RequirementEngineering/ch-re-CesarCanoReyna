@@ -12,9 +12,9 @@ of the ViveBus software in Ciudad Juárez, is aimed at all users of this and eve
 •	Definitions, acronyms, and abbreviations
 
 * ViveBus.- Bus Rapid Transit.
-•	App.- Application 
-•	UML.- Unified Modeling language 
-•	Iva.- Impuesto al valor agregado
+*	App.- Application 
+*	UML.- Unified Modeling language 
+*	Mercedes Benz.- German company luxury vehicle manufacturer
 
 •	References
 * ....
