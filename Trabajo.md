@@ -44,8 +44,8 @@ of the ViveBus software in Ciudad Juárez, is aimed at all users of this and eve
 User  | Description
 ----- | -------------
 End user | They can only navigate through the application and the map it has. This means that you can only interact and search the interface.
-Owner | The owner can create the users for the employees, as well as view the sales reports of each employee. In addition, the owner can make the high losses and changes of suppliers, customers and products.Must be able to access the system as administrator, create, edit and delete users, as well as approve invoices issued by employees.
-Employee | The employee will have access to create quotes and invoices. Must be able to generate them, as well as to be able to visualize their sales according to the invoices and their personal gains.
+Owner | Does not have to navigate in the application, its function will be to modify and update the stations in the map.
+Employee | You will have access to the data, being able to modify them and confirm that the information is valid, in addition to being in charge of locating the points of the stations on the map.
 
 
 * Constraints 
