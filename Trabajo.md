@@ -1,5 +1,5 @@
-# SRS ViveBus application.
-### 1.	Introduction
+## SRS ViveBus application.
+## 1.	Introduction
 •	Purpose: 
 * This document is intended to publicize the general operation
 of the ViveBus software in Ciudad Juárez, is aimed at all users of this and every new member who goes on green public transport.
