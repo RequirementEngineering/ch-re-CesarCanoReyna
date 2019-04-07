@@ -63,12 +63,6 @@ Employee | You will have access to the data, being able to modify them and confi
 
 
 ## Specific requirements 
-In this section we have more detailed information about the specific requirements of the system
-develop.
-The interface must be simple and with few elements to show, so that you can navigate quickly through it.
-It should not contain too many colors.
-
-
 * Interface
 
   * First screen
