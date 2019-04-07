@@ -110,8 +110,7 @@ Employee | You will have access to the data, being able to modify them and confi
  ![GitHub Logo](/Employee.png)
 
 
-  * Functional requirements by users
-  ![GitHub Logo](/administrator.png)
+  * Functional requirements
     * Owner (administrator)
       * The administrator can make user registrations
       * Can unsubscribe a user or edit their privileges
