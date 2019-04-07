@@ -64,37 +64,46 @@ Employee | You will have access to the data, being able to modify them and confi
 
 ## Specific requirements 
 * Interface
-
-  * First screen
-    * The first screen should show a welcome message and with its fields to login.
-    * The window will have a small size of 500 x 500 pixels.
-
   * Principal screen 
-    * The principal screen will have a size that occupy the full window.
-    * Must have a menu at the top that shows the following characteristics and functions: 
+    * In the main window you can see the vivebus logo.
+    * It will have a menu that indicates the stations to choose, from independence to the station that is in the centro
    
-      * Invoice
-        * Invoice a previous quote
-        * Check invoice issued
-        * Cancel invoice
-        * See all invoices (Owner only)
-    
-      * Quotation
-        * Generate new quote
-        * Search quote by number
-      
-      * Modify (New, Delete, edit)
-        * Client
-        * Provider
-        * Product
+      * trunk map
+        * Presidencia
+        * Valderas
+        * Vicente Guerrero
+        * Monumento
+        * Sanders
+        * San Antonio
+        * Aserraderos
+        * Jarudo
+        * Minatitlán
+        * Sierra madre
+        * Ponciano Arriaga
+        * Pavo Real
+        * Fco. I. Madero
+        * La presa
+        * Óscar Flores
+        * Parral 
+        * Tecnológico
+        * Camboya
+        * Oasis
+        * El granjero
+        * Piña
+        * Toronja Roja
+        * Hiedra
+        * Las torres 1
+        * Las torres 2
+        * Babícora
+        * Morelos
+        * Oaxaca
+        * Durango
+        * Zapata
+        * Los ejidos
+        * Ramón Rayón
+        * Leona Vicario
+        * Indenpendencia
 
-  * Administrator screen
-    * This screen should available only for the system administrator(Owner) so in this screen the administrator can: 
-      * Add a new user
-      * Change privileges for each user
-      * Delete user
-      * See user movements
-      * Check quotes and invoices issued by each user
       
 * Requirements
 
