@@ -106,7 +106,6 @@ Employee | You will have access to the data, being able to modify them and confi
 
       
 * Requirements
-* 
 
  ![GitHub Logo](/Employee.png)
 
