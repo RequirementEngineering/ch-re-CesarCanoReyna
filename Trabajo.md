@@ -28,21 +28,22 @@ of the ViveBus software in Ciudad Juárez, is aimed at all users of this and eve
 ## Overall description
 
 * Product perspective 
-  * The final product consists of a billing system, which will be responsible for making quotations and once approved they can be invoiced. Taking into account that you can also make high losses and changes of products, but mainly of customers and suppliers because the company does not have physical inventory so the inventory of products is not the most important.
+  * Guide people through an application for smartphones through the different vivebus stations spread throughout Ciudad Juárez, for this it will be necessary to install on the smartphone and enable the GPS to connect to the app, it is important to take into account that only works on Android, to be more accurate from version 4.4.4 onwards.
 
 * Product functions 
-  * Generation of quotes
-  * Generation of invoices
-  * High losses and customer modifications
-  * High losses and modifications of suppliers and products
-  * Sales inquiry by invoice
-  * Generation of users / employees
-  * Profit consultation
+  * Check the names of the stations.
+  * Alarm to know in which station it is.
+  * Show map of the city in real time.
+  * Show location on the map of each existing station.
+  * Show the name in order of each season.
+  * Away from doubts and improvements.
+  * Show travel time.
 
 * User characteristics 
 
 User  | Description
 ----- | -------------
+End user | They can only navigate through the application and the map it has. This means that you can only interact and search the interface.
 Owner | The owner can create the users for the employees, as well as view the sales reports of each employee. In addition, the owner can make the high losses and changes of suppliers, customers and products.Must be able to access the system as administrator, create, edit and delete users, as well as approve invoices issued by employees.
 Employee | The employee will have access to create quotes and invoices. Must be able to generate them, as well as to be able to visualize their sales according to the invoices and their personal gains.
 
