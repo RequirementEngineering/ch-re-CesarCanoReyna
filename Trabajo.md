@@ -112,18 +112,21 @@ Employee | You will have access to the data, being able to modify them and confi
 
  * Functional requirements
    * End users
-    * The end user can send new stations.
-    * Can choose which station to travel to.
-    * Test the finished product
-    * Can see each station in the app
-    * Can send suggestions to the developer
-    * Can rate the app
+     * The end user can send new stations.
+     * Can choose which station to travel to.
+     * Test the finished product
+     * Can see each station in the app
+     * Can send suggestions to the developer
+     * Can rate the app
+     
+   * Owner
+     * 
 
    * Employee  
-    * The employee may generate invoices that will be approved by the administrator
-    * The employee can generate quotes and can export them in PDF format
-    * The employee has access to edit quotes and also be able to bill them
-    * The employee has his own user
+     * The employee may generate invoices that will be approved by the administrator
+     * The employee can generate quotes and can export them in PDF format
+     * The employee has access to edit quotes and also be able to bill them
+     * The employee has his own user
 
   * Non-Functional requirements  
     * The system must be connected to the server by means of a modem / router
