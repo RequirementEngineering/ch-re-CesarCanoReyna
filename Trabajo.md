@@ -111,20 +111,19 @@ Employee | You will have access to the data, being able to modify them and confi
 
 
  * Functional requirements
-   * Owner (administrator)
-    * The administrator can make user registrations
-    * Can unsubscribe a user or edit their privileges
-    * Must approve the invoices issued by the users.
-    * Will be able to see each invoice and quotation of the users
-    * Can see the gains according to the desired period
-    * Can add and modify clients, as well as suppliers
-    * The administrator can also generate invoices and quotes
-  ![GitHub Logo](/Invoice.png)
-    * Employee  
-      * The employee may generate invoices that will be approved by the administrator
-      * The employee can generate quotes and can export them in PDF format
-      * The employee has access to edit quotes and also be able to bill them
-      * The employee has his own user
+   * End users
+    * The end user can send new stations.
+    * Can choose which station to travel to.
+    * Test the finished product
+    * Can see each station in the app
+    * Can send suggestions to the developer
+    * Can rate the app
+
+   * Employee  
+    * The employee may generate invoices that will be approved by the administrator
+    * The employee can generate quotes and can export them in PDF format
+    * The employee has access to edit quotes and also be able to bill them
+    * The employee has his own user
 
   * Non-Functional requirements  
     * The system must be connected to the server by means of a modem / router
@@ -132,5 +131,6 @@ Employee | You will have access to the data, being able to modify them and confi
     * Each quote and invoice must be stored both on the client computer and on the server
     * The system can not be accessed if it is not accessed through a user account
     * The system must request the respective characteristics to be able to invoice, both the key and the .xml files provided to the company by the SAT
-
+    
+  ![GitHub Logo](/Invoice.png)
 
