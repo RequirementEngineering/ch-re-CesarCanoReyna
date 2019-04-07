@@ -64,45 +64,45 @@ Employee | You will have access to the data, being able to modify them and confi
 
 ## Specific requirements 
 * Interface
-  * Principal screen 
+ * Principal screen 
     * In the main window you can see the vivebus logo.
     * It will have a menu that indicates the stations to choose, from independence to the station that is in the centro
    
-      * trunk map
-        * Presidencia
-        * Valderas
-        * Vicente Guerrero
-        * Monumento
-        * Sanders
-        * San Antonio
-        * Aserraderos
-        * Jarudo
-        * Minatitlán
-        * Sierra madre
-        * Ponciano Arriaga
-        * Pavo Real
-        * Fco. I. Madero
-        * La presa
-        * Óscar Flores
-        * Parral 
-        * Tecnológico
-        * Camboya
-        * Oasis
-        * El granjero
-        * Piña
-        * Toronja Roja
-        * Hiedra
-        * Las torres 1
-        * Las torres 2
-        * Babícora
-        * Morelos
-        * Oaxaca
-        * Durango
-        * Zapata
-        * Los ejidos
-        * Ramón Rayón
-        * Leona Vicario
-        * Indenpendencia
+     * trunk map
+      * Presidencia
+       * Valderas
+       * Vicente Guerrero
+       * Monumento
+       * Sanders
+       * San Antonio
+       * Aserraderos
+       * Jarudo
+       * Minatitlán
+       * Sierra madre
+       * Ponciano Arriaga
+       * Pavo Real
+       * Fco. I. Madero
+       * La presa
+       * Óscar Flores
+       * Parral 
+       * Tecnológico
+       * Camboya
+       * Oasis
+       * El granjero
+       * Piña
+       * Toronja Roja
+       * Hiedra
+       * Las torres 1
+       * Las torres 2
+       * Babícora
+       * Morelos
+       * Oaxaca
+       * Durango
+       * Zapata
+       * Los ejidos
+       * Ramón Rayón
+       * Leona Vicario
+       * Indenpendencia
 
       
 * Requirements
@@ -110,15 +110,15 @@ Employee | You will have access to the data, being able to modify them and confi
  ![GitHub Logo](/Employee.png)
 
 
-  * Functional requirements
-    * Owner (administrator)
-      * The administrator can make user registrations
-      * Can unsubscribe a user or edit their privileges
-      * Must approve the invoices issued by the users.
-      * Will be able to see each invoice and quotation of the users
-      * Can see the gains according to the desired period
-      * Can add and modify clients, as well as suppliers
-      * The administrator can also generate invoices and quotes
+ * Functional requirements
+   * Owner (administrator)
+    * The administrator can make user registrations
+    * Can unsubscribe a user or edit their privileges
+    * Must approve the invoices issued by the users.
+    * Will be able to see each invoice and quotation of the users
+    * Can see the gains according to the desired period
+    * Can add and modify clients, as well as suppliers
+    * The administrator can also generate invoices and quotes
   ![GitHub Logo](/Invoice.png)
     * Employee  
       * The employee may generate invoices that will be approved by the administrator
