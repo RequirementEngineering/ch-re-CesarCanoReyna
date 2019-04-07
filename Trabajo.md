@@ -1,5 +1,5 @@
 ## SRS ViveBus application.
-## 1.	Introduction
+## Introduction
 •	Purpose: 
 * This document is intended to publicize the general operation
 of the ViveBus software in Ciudad Juárez, is aimed at all users of this and every new member who goes on green public transport.
@@ -49,14 +49,17 @@ Employee | You will have access to the data, being able to modify them and confi
 
 
 * Constraints 
-  * The system requires a server with the system running.
-  * El sistema requiere un servidor con el sistema se ejecuta.
+  * Have an Android 4.4.4 operating system onwards.
+  * Only compatible with Android products
+  * It is required to have the screen on at all times.
+  * The application requires that the gps is always on.
+  
   
 * Assumptions and dependencies
-  * The server need to be always running
-  * Specific changes provided by Hacienda or SAT need to be realized by the developer
-  * The system it does not work until the Sat modification is made
-  * The owner needs approve the the invoices before they are made
+  * The gps needs to be on all the time.
+  * If you want to make the location calculate faster, you need internet connection.
+  * A smartphone is required.
+  * You need to find the station to get there.
 
 
 ## Specific requirements 
