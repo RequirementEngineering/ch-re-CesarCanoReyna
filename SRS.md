@@ -135,7 +135,6 @@ Employee | You will have access to the data, being able to modify them and confi
     * It will have a database that will be stored on the server, it will keep all the information about customers, suppliers and users
     * Each quote and invoice must be stored both on the client computer and on the server
     * The system can not be accessed if it is not accessed through a user account
-    * The system must request the respective characteristics to be able to invoice, both the key and the .xml files provided to the company by the SAT
     
-  ![GitHub Logo](/Invoice.png)
+  ![GitHub Logo](/.png)
 
