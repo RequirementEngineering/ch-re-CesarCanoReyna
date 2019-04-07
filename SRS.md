@@ -118,7 +118,8 @@ Employee | You will have access to the data, being able to modify them and confi
      * Can see each station in the app
      * Can send suggestions to the developer
      * Can rate the app
-     
+      ![GitHub Logo](/End.png)
+      
    * Owner
      * 
 
