@@ -64,11 +64,11 @@ Employee | You will have access to the data, being able to modify them and confi
 
 ## Specific requirements 
 * Interface
- * Principal screen 
-    * In the main window you can see the vivebus logo.
-    * It will have a menu that indicates the stations to choose, from independence to the station that is in the centro
+  * Principal screen 
+     * In the main window you can see the vivebus logo.
+     * It will have a menu that indicates the stations to choose, from independence to the station that is in the centro
    
-     * trunk map
+      * trunk map
        * Presidencia
        * Valderas
        * Vicente Guerrero
