@@ -45,7 +45,7 @@ User  | Description
 ----- | -------------
 End user | They can only navigate through the application and the map it has. This means that you can only interact and search the interface.
 Owner | Does not have to navigate in the application, its function will be to modify and update the stations in the map.
-Employee | You will have access to the data, being able to modify them and confirm that the information is valid, in addition to being in charge of locating the points of the stations on the map.
+Employee | Can will have access to the data, being able to modify them and confirm that the information is valid, in addition to being in charge of locating the points of the stations on the map.
 
 
 * Constraints 
@@ -129,16 +129,14 @@ Employee | You will have access to the data, being able to modify them and confi
      ![GitHub Logo](/Owner.png)
 
    * Employee  
-     * The employee may generate invoices that will be approved by the administrator
-     * The employee can generate quotes and can export them in PDF format
-     * The employee has access to edit quotes and also be able to bill them
-     * The employee has his own user
-
-  ![GitHub Logo](/.png)
+     * Can will have access to the data.
+     * Confirm the points of the stations in the map.
+     * confirm that the information is correct.
+     * The employee make the programmation.
 
   * Non-Functional requirements  
-    * The system must be connected to the server by means of a modem / router
-    * It will have a database that will be stored on the server, it will keep all the information about customers, suppliers and users
-    * Each quote and invoice must be stored both on the client computer and on the server
-    * The system can not be accessed if it is not accessed through a user account
+    * The app must always be connected through the gps.
+    * Every time a new station is added, an update of the app should be launched.
+    * You can not access the app if you do not have Android higher than 4.4.4.
+    * The smartphone screen should always be on.
     
