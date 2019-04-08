@@ -126,7 +126,7 @@ Employee | You will have access to the data, being able to modify them and confi
      * Can modificate the stations.
      * Does not have to navigate in the application.
      
-     ![GitHub Logo](/End.png)
+     ![GitHub Logo](/Owner.png)
 
    * Employee  
      * The employee may generate invoices that will be approved by the administrator
@@ -134,11 +134,11 @@ Employee | You will have access to the data, being able to modify them and confi
      * The employee has access to edit quotes and also be able to bill them
      * The employee has his own user
 
+  ![GitHub Logo](/.png)
+
   * Non-Functional requirements  
     * The system must be connected to the server by means of a modem / router
     * It will have a database that will be stored on the server, it will keep all the information about customers, suppliers and users
     * Each quote and invoice must be stored both on the client computer and on the server
     * The system can not be accessed if it is not accessed through a user account
     
-  ![GitHub Logo](/.png)
-
