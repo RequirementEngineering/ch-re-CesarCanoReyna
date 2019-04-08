@@ -122,7 +122,11 @@ Employee | You will have access to the data, being able to modify them and confi
       ![GitHub Logo](/End.png)
       
    * Owner
-     * 
+     * Can modificate the map.
+     * Can modificate the stations.
+     * Does not have to navigate in the application.
+     
+     ![GitHub Logo](/End.png)
 
    * Employee  
      * The employee may generate invoices that will be approved by the administrator
