@@ -15,7 +15,7 @@ Development of software requirements</br>
 </br>
 Facturation system</br>
 </br>
-Jonathan Manuel Fraire Lopez</br>
+César Antonio Cano Reyna</br>
 
 </br>
 
