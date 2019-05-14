@@ -13,7 +13,7 @@ Departamento de Ingeniería Electricidad y Computación</br>
 <p align="right">
 Development of software requirements</br>
 </br>
-Facturation system</br>
+ViveBus application</br>
 </br>
 César Antonio Cano Reyna</br>
 
