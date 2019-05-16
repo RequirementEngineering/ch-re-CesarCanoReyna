@@ -229,6 +229,7 @@ Stations|
 General use case
 
 ![GitHub Logo](/SRS/Images/General.png)
+
 User  | Description
 ----- | -------------
 Name |
