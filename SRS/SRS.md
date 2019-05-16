@@ -133,19 +133,18 @@ Return to the [table of contents](#Table-of-contents).
   * Alarm to know in which station it is.
   * Show map of the city in real time.
   * Show location on the map of each existing station.
-  * Show the name in order of each season.
-  * Away from doubts and improvements.
-  * Show travel time.
+  * Show the name in order of each station.
   * Creation of new stops in the application.
-  * 
+  * Track your location through the gps
+  * Show what position of the map you are in through a red dot.
 
 Return to the [table of contents](#Table-of-contents).
 ### User characteristics 
 
 User  | Description
 ----- | -------------
-End user | They can only navigate through the application and the map it has. This means that you can only interact and search the interface.
-Owner | Does not have to navigate in the application, its function will be to modify and update the stations in the map.
+End user | They can only navigate through the application and the map it has. This means that you can only interact and search all Viveus stations on the interface, as well as send e-mails to request a new Vivebus station.
+Owner | You do not have to navigate in the application, its function is to modify and update the stations on the map, in order to upload the new .apk file to the Play Store so that users can update the application.
 Employee | Can will have access to the data, being able to modify them and confirm that the information is valid, in addition to being in charge of locating the points of the stations on the map.
 
 
@@ -155,14 +154,15 @@ Return to the [table of contents](#Table-of-contents).
   * Only compatible with Android products
   * It is required to have the screen on at all times.
   * The application requires that the gps is always on.
-  
+  * If you do not have an electronic account, it will be impossible to make the request for the creation of a new stop.
+
   
 Return to the [table of contents](#Table-of-contents).
 ### Assumptions and dependencies
   * The gps needs to be on all the time.
   * If you want to make the location calculate faster, you need internet connection.
   * A smartphone is required.
-  * You need to find the station to get there.
+  * The creation of a new stop will have to be certified and validated by the developer
 
 
 Return to the [table of contents](#Table-of-contents).
