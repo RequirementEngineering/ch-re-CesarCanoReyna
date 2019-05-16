@@ -32,7 +32,6 @@ May 2019
     - [Overview](#Overview)
 
 2. [Overrall description](#Overall-description)
-    - [Business Managment Process](#Business-Managment-Process)
     - [Product perspective](#Product-perspective)
        - [Product Functions](#Product-functions) 
     - [User characteristics](#User-characteristics)
@@ -44,8 +43,7 @@ May 2019
        - [Non functional requirements](#Non-functional-requirements) 
 3. [Appendices](#Appendices) 
    - [Elicitation process](#Elicitation-process)
-    
-
+   - [Business Managment Process](#Business-Managment-Process) 
 
 
 
