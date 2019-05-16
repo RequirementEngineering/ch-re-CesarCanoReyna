@@ -67,14 +67,15 @@ May 2019
 * The benefits of this application is that those interested have an easier way to find information about the stations, as well as to choose which station they go to, their main objective is to facilitate the way of traveling around the city.
 
 ### Definitions, acronyms, and abbreviations
-
-* ViveBus.- Bus Rapid Transit.
-*	App.- The term app is an abbreviation of the English voice application and tends to be used to refer to a computer application for mobile devices and tablets.
-*	UML.- Unified Modeling language 
-*	Mercedes Benz.- German company luxury vehicle manufacturer
-* Stakeholder.- Any person with an interest in the project.
-* Public transport.- Public transport includes the means of transport in which passengers are not the owners of the same, being served by third parties (public or private companies). Public transport helps the movement of people from one point to another in an area of a city, each person paying a set fee depending on their route.
-* GPS.- The GPS is a navigation system based on 24 satellites (21 operative and 3 backup), in orbit on the planet earth that sends information about the position of a person or object at any time and weather conditions.
+Terms | Definition
+----- | -------------
+ViveBus | Bus Rapid Transit.
+App | The term app is an abbreviation of the English voice application and tends to be used to refer to a computer application for mobile devices and tablets.
+UML | Unified Modeling language 
+Mercedes Benz | German company luxury vehicle manufacturer
+Stakeholder | Any person with an interest in the project.
+Public transport | Public transport includes the means of transport in which passengers are not the owners of the same, being served by third parties (public or private companies). Public transport helps the movement of people from one point to another in an area of a city, each person paying a set fee depending on their route.
+GPS | The GPS is a navigation system based on 24 satellites (21 operative and 3 backup), in orbit on the planet earth that sends information about the position of a person or object at any time and weather conditions.
 
 ### References
 * debitoor. (s.f.). debitoor. Obtenido de https://debitoor.es/glosario/app-movil
