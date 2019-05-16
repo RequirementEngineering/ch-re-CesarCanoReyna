@@ -171,8 +171,8 @@ In this section we will talk more in detail of all requirements for the developm
 
 ### Interface
   * Principal screen 
-     ** In the main window you can see the vivebus logo.
-     ** It will have a menu that indicates the stations to choose, from independence to the station that is in the centro
+     - In the main window you can see the vivebus logo.
+     - It will have a menu that indicates the stations to choose, from independence to the station that is in the centro
    
       * trunk map
        * Presidencia
