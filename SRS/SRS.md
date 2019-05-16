@@ -174,7 +174,7 @@ In this section we will talk more in detail of all requirements for the developm
      - In the main window you can see the vivebus logo.
      - It will have a menu that indicates the stations to choose, from independence to the station that is in the centro, next they will be shown in descending order all the existing stations until the moment, since in this way they will appear in the application
    
-      * trunk map
+Stations:
        * Presidencia
        * Valderas
        * Vicente Guerrero
