@@ -136,7 +136,8 @@ Return to the [table of contents](#Table-of-contents).
   * Show the name in order of each season.
   * Away from doubts and improvements.
   * Show travel time.
-
+  * Creation of new stops in the application.
+  * 
 
 Return to the [table of contents](#Table-of-contents).
 ### User characteristics 
