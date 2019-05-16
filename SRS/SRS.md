@@ -177,39 +177,39 @@ In this section we will talk more in detail of all requirements for the developm
 Stations|
 ------- |
  Presidencia|
-* Valderas|
-* Vicente Guerrero|
-* Monumento|
-* Sanders|
-* San Antonio|
-* Aserraderos|
-* Jarudo|
-* Minatitlán|
-* Sierra madre|
-* Ponciano Arriaga|
-* Pavo Real|
-* Fco. I. Madero|
-* La presa|
-* Óscar Flores|
-* Parral|
-* Tecnológico|
-* Camboya|
-* Oasis|
-* El granjero|
-* Piña|
-* Toronja Roja|     
-* Hiedra|
-* Las torres 1|
-* Las torres 2|
-* Babícora|
-* Morelos|
-* Oaxaca|
-* Durango|
-* Zapata|
-* Los ejidos|
-* Ramón Rayón|
-* Leona Vicario|
-* Indenpendencia|
+ Valderas|
+ Vicente Guerrero|
+ Monumento|
+ Sanders|
+ San Antonio|
+ Aserraderos|
+ Jarudo|
+ Minatitlán|
+ Sierra madre|
+ Ponciano Arriaga|
+ Pavo Real|
+ Fco. I. Madero|
+ La presa|
+ Óscar Flores|
+ Parral|
+ Tecnológico|
+ Camboya|
+ Oasis|
+ El granjero|
+ Piña|
+ Toronja Roja|     
+ Hiedra|
+ Las torres 1|
+ Las torres 2|
+ Babícora|
+ Morelos|
+ Oaxaca|
+ Durango|
+ Zapata|
+ Los ejidos|
+ Ramón Rayón|
+ Leona Vicario|
+ Indenpendencia|
 
 ![GitHub Logo](/SRS/Images/Troncal.jpg)
       
