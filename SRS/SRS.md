@@ -39,8 +39,8 @@ May 2019
 3. [Specific requirements](#Specific-requirements) 
     - [Interface](#Interface)
     - [Requirements](#requirements)
-       - [Functional requirements by users](#Functional-requirements-by-users)
-       - [Non functional requirements](#Non-functional-requirements) 
+       - [Functional requirements by users](#Functional-requirements)
+       - [Non functional requirements](#Non-Functional-requirements) 
 3. [Appendices](#Appendices) 
    - [Elicitation process](#Elicitation-process)
    - [Business Managment Process](#Business-Managment-Process) 
@@ -252,7 +252,7 @@ General use case
      * confirm that the information is correct.
      * The employee make the programmation.
 
-  * Non-Functional requirements  
+  ### Non-Functional requirements  
     * The app must always be connected through the gps.
     * Every time a new station is added, an update of the app should be launched.
     * You can not access the app if you do not have Android higher than 4.4.4.
