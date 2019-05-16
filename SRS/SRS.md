@@ -209,7 +209,7 @@ Stations:
 * Ramón Rayón
 * Leona Vicario
 * Indenpendencia
-
+![GitHub Logo](/SRS/Images/Troncal.png)
       
 * Requirements
 
