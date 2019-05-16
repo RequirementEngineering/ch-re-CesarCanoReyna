@@ -228,6 +228,19 @@ Stations|
 
 General use case
 
+![GitHub Logo](/SRS/Images/General.png)
+User  | Description
+----- | -------------
+Name |
+Autor |
+Date |
+Brief Description |
+Actors |
+Pre-conditions |
+Normal flow |
+Alternative flow |
+Post-conditions |
+
  ![GitHub Logo](/Employee.png)
 
    * End users
