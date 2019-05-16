@@ -167,7 +167,9 @@ Return to the [table of contents](#Table-of-contents).
 
 Return to the [table of contents](#Table-of-contents).
 ## Specific requirements 
-* Interface
+In this section we will talk more in detail of all requirements for the development of the app, the interface should be simple and easy to visualize, so that the user can navigate quickly through it without many complications, the stations must be in order to how they are located throughout the city, so that in this way, the user does not have to look one by one to find the one they want, thus making the application more intuitive and easier to understand.
+
+### Interface
   * Principal screen 
      * In the main window you can see the vivebus logo.
      * It will have a menu that indicates the stations to choose, from independence to the station that is in the centro
