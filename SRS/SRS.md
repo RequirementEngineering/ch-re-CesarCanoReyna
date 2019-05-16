@@ -104,7 +104,8 @@ Return to the [table of contents](#Table-of-contents).
 * To the business process management we have the [Elicitation process](#Elicitation-process), of which a diagram was made:
 
 * Main diagram
-![GitHub Logo](/Employee.png)
+
+![GitHub Logo](SRS/Images/Vivebus.png)
 
 ### Product perspective 
   * Guide people through an application for smartphones through the different vivebus stations spread throughout Ciudad Juárez, for this it will be necessary to install on the smartphone and enable the GPS to connect to the app, it is important to take into account that only works on Android, to be more accurate from version 4.4.4 onwards.
