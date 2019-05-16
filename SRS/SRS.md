@@ -59,6 +59,8 @@ May 2019
 ### Purpose: 
 * The purpose of this SRS is to provide the specifications of the application for Vivebus mobile devices, which will provide a better service to all people who approach this public transport and have a smart phone. The main objective is to inform the operation of the application not only to passengers, but also to anyone interested in boarding this transport.
 
+Return to the [table of contents](Table of contents).
+
 ### Scope: 
 * The name of the finish product it will be “ViveBus App”. 
 * The application should promote the benefits offered by the ViveBus application and offer a simple way to travel and get to know each of the stations picked up throughout the city.
