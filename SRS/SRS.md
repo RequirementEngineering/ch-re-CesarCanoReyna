@@ -35,7 +35,7 @@ May 2019
     - [Product perspective](#Product-perspective)
        - [Product Functions](#Product-functions) 
     - [User characteristics](#User-characteristics)
-    - [Constrains](#Constrains)
+    - [constraints](#constraints)
 3. [Specific requirements](#Specific-requirements) 
     - [Interface](#Interface)
     - [Requirements](#requirements)
