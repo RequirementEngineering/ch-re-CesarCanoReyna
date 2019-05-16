@@ -82,17 +82,23 @@ Stakeholder | Any person with an interest in the project.
 Public transport | Public transport includes the means of transport in which passengers are not the owners of the same, being served by third parties (public or private companies). Public transport helps the movement of people from one point to another in an area of a city, each person paying a set fee depending on their route.
 GPS | The GPS is a navigation system based on 24 satellites (21 operative and 3 backup), in orbit on the planet earth that sends information about the position of a person or object at any time and weather conditions.
 
+
+Return to the [table of contents](#Table-of-contents).
 ### References
 * debitoor. (s.f.). debitoor. Obtenido de https://debitoor.es/glosario/app-movil
 * Significados. (31 de 10 de 2018). Significados. Obtenido de https://www.significados.com/gps/
 * smovilidad. (s.f.). smovilidad. Obtenido de https://smovilidad.edomex.gob.mx/transporte_publico
 
+
+Return to the [table of contents](#Table-of-contents).
 ### Overview 
 * Section 1.- Focused on the explanation, objectives, goals and description of the document.
 * Section 2.- General description of the system with information oriented to the client or end user
 * Section 3.- Specific requirements and specific terms for the development team
 * Section 4.- Appendices
 
+
+Return to the [table of contents](#Table-of-contents).
 ## Overall description
 ### Business Managment Process
 * To the business process management we have the [Elicitation process](#Elicitation-process), of which a diagram was made:
