@@ -213,12 +213,22 @@ Stations|
 
 ![GitHub Logo](/SRS/Images/Troncal.jpg)
       
-### Requirements
+* Map screen
+  - In this window we are shown the map of Ciudad Juárez, which will already have all the stations marked with a red dot.   
+  - The position of the user who makes use of the application through the gps with a blue dot is also shown.
+
+* Request screen for a new stop
+  - First you will have to log in with an e-mail account to try.
+  - Once logged in, the map of Ciudad Juarez is shown, where you will leave red dots to mark the location of the new stop.
+  - Once we have put the red dot, we will click on continue and an email will automatically be sent to the administrator of the application with the coordinates of the red dot placed by the user.
+  
+## Requirements
+### Functional requirements
+
+General use case
 
  ![GitHub Logo](/Employee.png)
 
-
- * Functional requirements
    * End users
      * The end user can send new stations.
      * Can choose which station to travel to.
