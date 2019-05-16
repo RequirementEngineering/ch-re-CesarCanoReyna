@@ -109,11 +109,11 @@ Return to the [table of contents](#Table-of-contents).
 
 ### Sub-process #1 - Install the app 
 
-![GitHub Logo](/SRS/Images/Install the app.png)
+![GitHub Logo](/SRS/Images/Install.png)
 
 ### Sub-process #2 - Fill in a request for a new
 
-![GitHub Logo](/SRS/Images/New stop..png)
+![GitHub Logo](/SRS/Images/Fill.png)
 
 ### Sub-process #3 - Create the new station
 
