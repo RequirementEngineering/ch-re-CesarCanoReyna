@@ -121,9 +121,13 @@ Return to the [table of contents](#Table-of-contents).
 Here we have the project in visual paradigm with all the processes for a better visualization:
 https://github.com/RequirementEngineering/ch-re-CesarCanoReyna/blob/master/SRS/Vivebus.vpp
 
-### Product perspective 
-  * Guide people through an application for smartphones through the different vivebus stations spread throughout Ciudad Juárez, for this it will be necessary to install on the smartphone and enable the GPS to connect to the app, it is important to take into account that only works on Android, to be more accurate from version 4.4.4 onwards.
 
+Return to the [table of contents](#Table-of-contents).
+### Product perspective 
+  * The final product consist in guide people through an application for smartphones through the different vivebus stations spread throughout Ciudad Juárez, for this it will be necessary to install on the smartphone and enable the GPS to connect to the app, it is important to take into account that only works on Android, to be more accurate from version 4.4.4 onwards.
+
+
+Return to the [table of contents](#Table-of-contents).
 ### Product functions 
   * Check the names of the stations.
   * Alarm to know in which station it is.
@@ -133,6 +137,8 @@ https://github.com/RequirementEngineering/ch-re-CesarCanoReyna/blob/master/SRS/V
   * Away from doubts and improvements.
   * Show travel time.
 
+
+Return to the [table of contents](#Table-of-contents).
 ### User characteristics 
 
 User  | Description
@@ -142,6 +148,7 @@ Owner | Does not have to navigate in the application, its function will be to mo
 Employee | Can will have access to the data, being able to modify them and confirm that the information is valid, in addition to being in charge of locating the points of the stations on the map.
 
 
+Return to the [table of contents](#Table-of-contents).
 ### Constraints 
   * Have an Android 4.4.4 operating system onwards.
   * Only compatible with Android products
@@ -149,6 +156,7 @@ Employee | Can will have access to the data, being able to modify them and confi
   * The application requires that the gps is always on.
   
   
+Return to the [table of contents](#Table-of-contents).
 ### Assumptions and dependencies
   * The gps needs to be on all the time.
   * If you want to make the location calculate faster, you need internet connection.
@@ -156,6 +164,7 @@ Employee | Can will have access to the data, being able to modify them and confi
   * You need to find the station to get there.
 
 
+Return to the [table of contents](#Table-of-contents).
 ## Specific requirements 
 * Interface
   * Principal screen 
