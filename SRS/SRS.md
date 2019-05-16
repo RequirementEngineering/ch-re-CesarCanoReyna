@@ -60,7 +60,7 @@ May 2019
 * The purpose of this SRS is to provide the specifications of the application for Vivebus mobile devices, which will provide a better service to all people who approach this public transport and have a smart phone. The main objective is to inform the operation of the application not only to passengers, but also to anyone interested in boarding this transport.
 
 
-Return to the [table of contents](#Table of contents).
+Return to the [table of contents](#Table-of-contents).
 
 ### Scope: 
 * The name of the finish product it will be “ViveBus App”. 
@@ -70,7 +70,7 @@ Return to the [table of contents](#Table of contents).
 * The benefits of this application is that those interested have an easier way to find information about the stations, as well as to choose which station they go to, their main objective is to facilitate the way of traveling around the city.
 
 
-Return to the [table of contents](#Table of contents).
+Return to the [table of contents](#Table-of-contents).
 ### Definitions, acronyms, and abbreviations
 Terms | Definition
 ----- | -------------
