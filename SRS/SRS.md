@@ -299,12 +299,20 @@ Return to the [table of contents](#Table-of-contents).
     * Every time a new station is added, an update of the app should be launched.
     * You can not access the app if you do not have Android higher than 4.4.4.
     * The smartphone screen should always be on.
+    * You must log in to create a new station, you can not use this tool if that requirement is not met.
+    * The application must show at all times the map of the city with its respective stations ordered as requested.
+    * Each received coordinate must be stored in the developer's email for inspection and verification.
     
 
 Return to the [table of contents](#Table-of-contents).
 
 ### User requirements
-
+* The application must be able to update itself and save new stations for its use.
+* The developer can access to his account and validity the coordinates sent by the user for new stops or edit an existing one.
+* The user can make use of the application if he has Android 4.4.4 or higher.
+* The application must be updated from the store Play store.
+* The application must be fluid and fast, so the map must already be integrated into the application.
+* The application should be easy to visualize and understand.
 
 
 Return to the [table of contents](#Table-of-contents).
