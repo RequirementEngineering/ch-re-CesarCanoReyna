@@ -260,30 +260,58 @@ Alternative flow |
 Post-conditions | New stations created within the application are saved
 
 
- ![GitHub Logo](/Employee.png)
+#### Specific use case - Log in/ log out
 
-   * End users
-     * The end user can send new stations.
-     * Can choose which station to travel to.
-     * Test the finished product
-     * Can see each station in the app
-     * Can send suggestions to the developer
-     * Can rate the app
-     
-      ![GitHub Logo](/End.png)
-      
-   * Owner
-     * Can modificate the map.
-     * Can modificate the stations.
-     * Does not have to navigate in the application.
-     
-     ![GitHub Logo](/Owner.png)
+![GitHub Logo](/SRS/Images/Log.png)
 
-   * Employee  
-     * Can will have access to the data.
-     * Confirm the points of the stations in the map.
-     * confirm that the information is correct.
-     * The employee make the programmation.
+User  | Description
+----- | -------------
+Name | Log in / Log out
+Autor | César Antonio Cano Reyna
+Date | 26/04/2019
+Brief Description | User and developer interact through emails
+Actors | Developer and user
+Pre-conditions | You must have logged in with any email address.
+Normal flow | * The user must log in to send coordinates of the new station.
+Alternative flow | 
+Post-conditions | 
+
+
+#### Specific use case - Modificate the app
+
+![GitHub Logo](/SRS/Images/ModificateApp.png)
+
+User  | Description
+----- | -------------
+Name | Modificate the app
+Autor | César Antonio Cano Reyna
+Date | 26/04/2019
+Brief Description | The administrator modifies the app to add new stops for the Vivebus transport.
+Actors | Developer
+Pre-conditions | The user should have sent the coordinates of the new stop.
+Normal flow | * The developer enters the new coordinates in the application.
+Alternative flow | 
+Post-conditions | The application must be updated.
+
+
+#### Specific use case - Travel throughout the city
+
+![GitHub Logo](/SRS/Images/Travle.png)
+
+User  | Description
+----- | -------------
+Name | Travel throughout the city
+Autor | César Antonio Cano Reyna
+Date | 26/04/2019
+Brief Description | The user travels throughout the city making use of the Vivebus application.
+Actors | User
+Pre-conditions | Have the Vivebus application installed on a Smartphone.
+Normal flow | * the user makes use of the application and will finish using it until he has reached the destination marked within the app.
+Alternative flow | Travel through the city without the use of the Vivebus application.
+Post-conditions | Finish our trip in the vivebus units having made use of the application.
+
+
+
 
   ### Non-Functional requirements  
     * The app must always be connected through the gps.
