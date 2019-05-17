@@ -296,7 +296,7 @@ Post-conditions | The application must be updated.
 
 #### Specific use case - Travel throughout the city
 
-![GitHub Logo](/SRS/Images/Travle.png)
+![GitHub Logo](/SRS/Images/Travel.png)
 
 User  | Description
 ----- | -------------
