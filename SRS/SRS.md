@@ -226,7 +226,7 @@ Stations|
 ## Requirements
 ### Functional requirements
 
-General use case
+#### General use case
 
 ![GitHub Logo](/SRS/Images/General.png)
 
@@ -239,8 +239,26 @@ Brief Description | You will have a main task, which is the use and modification
 Actors | Developer and user
 Pre-conditions | That the application is in use and have contact with the developer
 Normal flow | * Developer.- Modificate the app, Create new stations. * User.- check the app, Travel throughout the city.
-Alternative flow | In case you can not log in to create a new stop, try a valid email account.
+Alternative flow | In case of failure of the application, restart the app.
+Post-conditions | All information sent by users must be saved.
+
+
+#### Specific use case - Create new station
+
+![GitHub Logo](/SRS/Images/CreateStations.png)
+
+User  | Description
+----- | -------------
+Name | Create new stations
+Autor | César Antonio Cano Reyna
+Date | 26/04/2019
+Brief Description | The developer creates the new Vivebus stations.
+Actors | Developer
+Pre-conditions | Verify information
+Normal flow | * The developer creates the new station and introduces the new information in the app
+Alternative flow | 
 Post-conditions | New stations created within the application are saved
+
 
  ![GitHub Logo](/Employee.png)
 
