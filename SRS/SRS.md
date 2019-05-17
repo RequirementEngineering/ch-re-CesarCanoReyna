@@ -310,9 +310,9 @@ Return to the [table of contents](#Table-of-contents).
 1. The application must be able to update itself and save new stations for its use.
 2. The developer can access to his account and validity the coordinates sent by the user for new stops or edit an existing one.
 3. The user can make use of the application if he has Android 4.4.4 or higher.
-5. The application must be updated from the store Play store.
-6. The application must be fluid and fast, so the map must already be integrated into the application.
-7. The application should be easy to visualize and understand.
+4. The application must be updated from the store Play store.
+5. The application must be fluid and fast, so the map must already be integrated into the application.
+6. The application should be easy to visualize and understand.
  
  
 Return to the [table of contents](#Table-of-contents).
@@ -322,7 +322,28 @@ Return to the [table of contents](#Table-of-contents).
    * 1.2 Each update must be an improvement of your predecessor.
    * 1.3 The administrator's account will be in charge of verifying the existence of the coordinates sent by the users.
 
+2.
+   * 2.1 The developer will need to login for the validation of the coordinates.
+   * 2.2 To edit an existing stop you need permission from the vivebus managers, however, to generate a new one simply you can verify that the received information is correct.
 
+3.
+   * 3.1 If the user has any other operating system different from Android, they can not use the application.
+   * 3.2 The user with Android must ensure that they have the operating system 4.4.4 or higher.
+
+4.
+   * 4.1 In order for the user to access the new version of the application, it must be downloaded from the Play store.
+   * 4.2 The application can only be updated from Play store, if it is downloaded or updated from another site, it will be breaking the rules of its use.
+
+5.
+   * 5.1 For the application to be more fluid, it was decided to load the map in the application and thus minimize the loading time.
+   * 5.2 In order for the application to find the user's location faster, the use of mobile data or a Wi-Fi network is recommended.
+   
+6. 
+   * 6.1 In order to make the application easier to visualize, we chose colors that are easy to see and that do not exert much cognitive load.
+   * 6.2 The controls of the application are intuitive and easy to handle, so users should not have problems with them.
+   * 6.3 To make it clear to the user that the use of the GPS inside the application is crucial, a message is displayed in case of choosing a station and it does not have the GPS on.
+   
+   
 Return to the [table of contents](#Table-of-contents).
 ## Appendices
 ### Elicitation process
