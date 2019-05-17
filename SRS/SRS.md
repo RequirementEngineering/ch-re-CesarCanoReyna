@@ -341,6 +341,43 @@ Return to the [table of contents](#Table-of-contents).
 ## Appendices
 ### Elicitation process
 
+On April 25, an interview was held with the public transport operators Vivebus, to talk about the application which will be developed by the team formed by the young César Antonio Cano Reyna. Firstly, the operation of public transport Vivebus was discussed. How is the use of these units, we were told in the same way the location of all existing stations spread throughout the city, since to develop the application is necessary to use these.
+
+First mention was made of the interests of those in charge of the Vivebus, which were, to make an application for mobile devices that would facilitate the use of the units to be transported throughout the city, and how the interface of the app would be described in detail. and the processes that it required for its operation.
+
+It was commented that the use of the application was not mandatory for any user that will address their units, since as mentioned above, the use of this will only be to improve and facilitate the use and travel through the Vivebus, an important data for the Development of the app and requirement for its use, is that the user must have a Smartphone that contains the Android operating system.
+
+There was also talk about giving users the opportunity to send emails to the developers of the app mentioning the existence of a new station, for which, the user must log in with any e-mail to send the mail, it was left It is clear that in order for this to be done, the user must be connected to the network in order to send the email.
+
+Here are some important parts about the development of the mobile application and its processes:
+
+Important points of the interview
+The application that will be developed will be available only for Android 4.4.4 devices, this application will contain all available stations with the public transport vivebus, at the time of opening it will show us a map, which must be loaded within the application so that in this way the processes are faster, on the map each station will be marked by a red dot, each of these stations must have a proximity range of 20 meters so that in this way a small alarm to the person telling him that he is about to arrive at a new station, and in case of having to descend, prepare for it, for this alarm to work, the Smartphone should have gps, which should be on all moment, in this way, when moving around the city, it will do so in the same way by the map of the application.
+- The app must have an administrator, who can enter within this new points, which will be the new stops of the vivebus, if this happens, the application should be updated.
+
+The app must have two main processes, which are:
+- Selection of the station you want to reach using the gps:
+  * This process first shows the start screen, which will have all the existing stations so far, so that the user can choose which one to reach.
+  * One of the many characteristics of the home screen is that it must be ordered according to the existing stations.
+  * No account is required to access the application, so anyone with access to a smartphone with Android higher than 4.4.4 and with gps can use it, except to create a new station on the map, and that for this you need to log in with any existing e-mail.
+  * In this process, the GPS of the Smartphone is used to locate its location and show it on the map that is automatically loaded, showing us what part of the city we are in and the stations next to which we can reach.
+  * In order for the previous process to be executed, it is necessary to have activated the GPS of the Smartphone, so when the application is started, it will be requested to activate it.
+  * The location search through the gps is stable, but to have better control of it, it is recommended to turn on the data and once the location is found they can be turned off again.
+  
+- Creation of a new vivebus stop:
+  * This process will consist of the use of the e-mail to have a better handling of the new stations, which at that moment do not appear in the map of the application.
+  * The user must log in with any existing e-mail to send the mail about the new station.
+  * Once the email reaches the administrator of the application, it will confirm if the received information is correct.
+  * Once the information has been verified, the application will be updated by entering the coordinates of the new station and the new .apk file will be uploaded to the play store.
+  
+Another of the many important points that need to be mentioned is that:
+- The app must contain a section showing all the existent vivebus stations so far, so that the person can see where each city is located.
+- It will give importance to the emails sent by the users, in order to be always up to date with all the stations within the application.
+
+Once the interview was over, it was agreed to always be in contact so that the delivery of new information would be simple in this way.
+
+In conclusion:
+There will be an application for public transport Vivebus located in Juárez City, which will have a section for the creation of new stops, in addition to showing a map of the city with all locations marked with a red dot of existing stations ordered depending on your location, an alarm will sound 20 meters from the station selected on the home screen to warn the passenger that you are about to arrive at your destination.
 
 
 Return to the [table of contents](#Table-of-contents).
