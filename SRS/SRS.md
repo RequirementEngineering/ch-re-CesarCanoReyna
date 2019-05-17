@@ -232,15 +232,15 @@ General use case
 
 User  | Description
 ----- | -------------
-Name |
-Autor |
-Date |
-Brief Description |
-Actors |
-Pre-conditions |
-Normal flow |
-Alternative flow |
-Post-conditions |
+Name | Vivebus app
+Autor | César Antonio Cano Reyna
+Date | 26/04/2019
+Brief Description | You will have a main task, which is the use and modification of the Vivebus application.
+Actors | Developer and user
+Pre-conditions | That the application is in use and have contact with the developer
+Normal flow | * Developer.- Modificate the app, Create new stations. * User.- check the app, Travel throughout the city.
+Alternative flow | In case you can not log in to create a new stop, try a valid email account.
+Post-conditions | New stations created within the application are saved
 
  ![GitHub Logo](/Employee.png)
 
