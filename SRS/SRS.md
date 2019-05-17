@@ -101,31 +101,6 @@ Return to the [table of contents](#Table-of-contents).
 
 Return to the [table of contents](#Table-of-contents).
 ## Overall description
-### Business Managment Process
-* To the business process management we have the [Elicitation process](#Elicitation-process), of which a diagram was made:
-
-### Main diagram
-
-![GitHub Logo](/SRS/Images/Vivebus.png)
-
-### Sub-process #1 - Install the app 
-
-![GitHub Logo](/SRS/Images/Install.png)
-
-### Sub-process #2 - Fill in a request for a new
-
-![GitHub Logo](/SRS/Images/Fill.png)
-
-### Sub-process #3 - Create the new station
-
-![GitHub Logo](/SRS/Images/Create.png)
-
-
-Here we have the project in visual paradigm with all the processes for a better visualization:
-[Vivebus proyect](https://github.com/RequirementEngineering/ch-re-CesarCanoReyna/blob/master/SRS/Vivebus.vpp)
-
-
-Return to the [table of contents](#Table-of-contents).
 ### Product perspective 
   * The final product consist in guide people through an application for smartphones through the different vivebus stations spread throughout Ciudad Juárez, for this it will be necessary to install on the smartphone and enable the GPS to connect to the app, it is important to take into account that only works on Android, to be more accurate from version 4.4.4 onwards.
 
@@ -378,6 +353,31 @@ Once the interview was over, it was agreed to always be in contact so that the d
 
 In conclusion:
 There will be an application for public transport Vivebus located in Juárez City, which will have a section for the creation of new stops, in addition to showing a map of the city with all locations marked with a red dot of existing stations ordered depending on your location, an alarm will sound 20 meters from the station selected on the home screen to warn the passenger that you are about to arrive at your destination.
+
+
+Return to the [table of contents](#Table-of-contents).
+### Business Managment Process
+* To the business process management we have the [Elicitation process](#Elicitation-process), of which a diagram was made:
+
+### Main diagram
+
+![GitHub Logo](/SRS/Images/Vivebus.png)
+
+### Sub-process #1 - Install the app 
+
+![GitHub Logo](/SRS/Images/Install.png)
+
+### Sub-process #2 - Fill in a request for a new
+
+![GitHub Logo](/SRS/Images/Fill.png)
+
+### Sub-process #3 - Create the new station
+
+![GitHub Logo](/SRS/Images/Create.png)
+
+
+Here we have the project in visual paradigm with all the processes for a better visualization:
+[Vivebus proyect](https://github.com/RequirementEngineering/ch-re-CesarCanoReyna/blob/master/SRS/Vivebus.vpp)
 
 
 Return to the [table of contents](#Table-of-contents).
