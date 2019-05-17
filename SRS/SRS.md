@@ -307,17 +307,20 @@ Return to the [table of contents](#Table-of-contents).
 Return to the [table of contents](#Table-of-contents).
 
 ### User requirements
-* The application must be able to update itself and save new stations for its use.
-* The developer can access to his account and validity the coordinates sent by the user for new stops or edit an existing one.
-* The user can make use of the application if he has Android 4.4.4 or higher.
-* The application must be updated from the store Play store.
-* The application must be fluid and fast, so the map must already be integrated into the application.
-* The application should be easy to visualize and understand.
-
-
+1.- The application must be able to update itself and save new stations for its use.
+2.- The developer can access to his account and validity the coordinates sent by the user for new stops or edit an existing one.
+3.- The user can make use of the application if he has Android 4.4.4 or higher.
+5.- The application must be updated from the store Play store.
+6.- The application must be fluid and fast, so the map must already be integrated into the application.
+7.- The application should be easy to visualize and understand.
+ 
+ 
 Return to the [table of contents](#Table-of-contents).
 ### System requirements
-
+1.- 
+1.1 The application must be updated for users, the administrator account must be in charge of generating the new stations.
+1.2 Each update must be an improvement of your predecessor.
+1.3 The administrator's account will be in charge of verifying the existence of the coordinates sent by the users.
 
 
 Return to the [table of contents](#Table-of-contents).
