@@ -42,6 +42,8 @@ May 2019
     - [Requirements](#requirements)
        - [Functional requirements](#Functional-requirements)
        - [Non-Functional requirements](#Non-Functional-requirements) 
+       - [User requirements](#User-requirements) 
+       - [System requirements](#System-requirements)
 3. [Appendices](#Appendices) 
    - [Elicitation process](#Elicitation-process)
    - [Business Managment Process](#Business-Managment-Process) 
@@ -170,6 +172,8 @@ Return to the [table of contents](#Table-of-contents).
 ## Specific requirements 
 In this section we will talk more in detail of all requirements for the development of the app, the interface should be simple and easy to visualize, so that the user can navigate quickly through it without many complications, the stations must be in order to how they are located throughout the city, so that in this way, the user does not have to look one by one to find the one they want, thus making the application more intuitive and easier to understand.
 
+
+Return to the [table of contents](#Table-of-contents).
 ### Interface
   * Principal screen 
      - In the main window you can see the vivebus logo.
@@ -223,6 +227,8 @@ Stations|
   - Once logged in, the map of Ciudad Juarez is shown, where you will leave red dots to mark the location of the new stop.
   - Once we have put the red dot, we will click on continue and an email will automatically be sent to the administrator of the application with the coordinates of the red dot placed by the user.
   
+  
+Return to the [table of contents](#Table-of-contents).
 ## Requirements
 ### Functional requirements
 
@@ -311,7 +317,7 @@ Alternative flow | Travel through the city without the use of the Vivebus applic
 Post-conditions | Finish our trip in the vivebus units having made use of the application.
 
 
-
+Return to the [table of contents](#Table-of-contents).
 
   ### Non-Functional requirements  
     * The app must always be connected through the gps.
@@ -319,3 +325,22 @@ Post-conditions | Finish our trip in the vivebus units having made use of the ap
     * You can not access the app if you do not have Android higher than 4.4.4.
     * The smartphone screen should always be on.
     
+
+Return to the [table of contents](#Table-of-contents).
+
+### User requirements
+
+
+
+Return to the [table of contents](#Table-of-contents).
+### System requirements
+
+
+
+Return to the [table of contents](#Table-of-contents).
+## Appendices
+### Elicitation process
+
+
+
+Return to the [table of contents](#Table-of-contents).
