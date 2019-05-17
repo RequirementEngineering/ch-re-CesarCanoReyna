@@ -322,22 +322,27 @@ Return to the [table of contents](#Table-of-contents).
    * 1.2 Each update must be an improvement of your predecessor.
    * 1.3 The administrator's account will be in charge of verifying the existence of the coordinates sent by the users.
 
+
 2.
    * 2.1 The developer will need to login for the validation of the coordinates.
    * 2.2 To edit an existing stop you need permission from the vivebus managers, however, to generate a new one simply you can verify that the received information is correct.
+
 
 3.
    * 3.1 If the user has any other operating system different from Android, they can not use the application.
    * 3.2 The user with Android must ensure that they have the operating system 4.4.4 or higher.
 
+
 4.
    * 4.1 In order for the user to access the new version of the application, it must be downloaded from the Play store.
    * 4.2 The application can only be updated from Play store, if it is downloaded or updated from another site, it will be breaking the rules of its use.
 
+
 5.
    * 5.1 For the application to be more fluid, it was decided to load the map in the application and thus minimize the loading time.
    * 5.2 In order for the application to find the user's location faster, the use of mobile data or a Wi-Fi network is recommended.
-   
+
+
 6. 
    * 6.1 In order to make the application easier to visualize, we chose colors that are easy to see and that do not exert much cognitive load.
    * 6.2 The controls of the application are intuitive and easy to handle, so users should not have problems with them.
